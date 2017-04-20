@@ -30,9 +30,9 @@
 	.st21{fill:none;stroke:#FFFFFF;stroke-width:2.6602;stroke-linecap:round;stroke-miterlimit:10;}
 	.st22{font-family:'CiscoSans-Bold';}
 	.st23{display:inline;}
-	.st24{display:inline;fill:none;}
-	.st25{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
-	.st26{fill:#00ADEE;}
+	.st24{display:inline;fill:#00ADEE;}
+	.st25{display:inline;fill:none;}
+	.st26{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
 	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 	.st28{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:none;}
 	.st29{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
@@ -100,8 +100,8 @@
 <glyph unicode="y" horiz-adv-x="497" d="M480,520l-54,0l-165,-478l-186,478l-58,0l207,-520l21,0C207,-113 194,-150 149,-150C134,-150 115,-147 98,-141l0,-44C116,-191 134,-195 152,-195C227,-195 247,-146 297,-4z"/>
 </font>
 
-	<g id="Layer_2">
-	<rect x="-43.5" y="-23.7" class="st26" width="2030" height="1154"/>
+	<g id="Layer_2" class="st35">
+	<rect x="-43.5" y="-23.7" class="st24" width="2030" height="1154"/>
 </g>
 <g id="Layer_1" class="st35">
 	<g id="Layer_3" class="st23">
@@ -935,8 +935,8 @@
 			c-3,2.3-7.3,1.7-9.6-1.3L218,805.6l-1.2,0.6c-4.3,1.8-9,2.8-13.9,2.8c-19.7,0-35.8-15.9-35.8-35.5S183.2,738,202.9,738z
 			 M202.2,745.5c-15.2,0-27.5,12.2-27.5,27.3c0,15.1,12.3,27.3,27.5,27.3c15.2,0,27.5-12.2,27.5-27.3
 			C229.7,757.8,217.4,745.5,202.2,745.5z"/>
-		<circle class="st25" cx="202.4" cy="787.6" r="5.2"/>
-		<path class="st25" d="M197.1,752.9c0-0.3,0.2-0.5,0.5-0.5h9.5c0.3,0,0.5,0.2,0.5,0.5V778c0,0.3-0.2,0.5-0.5,0.5h-9.5
+		<circle class="st26" cx="202.4" cy="787.6" r="5.2"/>
+		<path class="st26" d="M197.1,752.9c0-0.3,0.2-0.5,0.5-0.5h9.5c0.3,0,0.5,0.2,0.5,0.5V778c0,0.3-0.2,0.5-0.5,0.5h-9.5
 			c-0.3,0-0.5-0.2-0.5-0.5V752.9z"/>
 	</g>
 	<rect x="293.9" y="432" class="st19" width="259" height="78"/>
@@ -1040,19 +1040,19 @@
 	</g>
 </g>
 <g id="Text" class="st35">
-	<rect x="766.1" y="136.5" class="st24" width="412.5" height="72"/>
+	<rect x="766.1" y="136.5" class="st25" width="412.5" height="72"/>
 	<text transform="matrix(1 0 0 1 794.6562 175.4185)" class="st16 st33 st32">Cloud Security</text>
-	<rect x="755.4" y="702.5" class="st24" width="412.5" height="124.5"/>
+	<rect x="755.4" y="702.5" class="st25" width="412.5" height="124.5"/>
 	<text transform="matrix(1 0 0 1 787.7495 737.0986)" class="st23"><tspan x="0" y="0" class="st18 st33 st31">Virtual Managed </tspan><tspan x="92.9" y="57.6" class="st18 st33 st31">Service</tspan></text>
-	<rect x="1356.5" y="120.2" class="st24" width="266" height="74"/>
+	<rect x="1356.5" y="120.2" class="st25" width="266" height="74"/>
 	<text transform="matrix(1 0 0 1 1382.9346 137.4663)" class="st16 st22 st30">INTERNET FIREWALL</text>
-	<rect x="1383.2" y="274.2" class="st24" width="239.3" height="74"/>
+	<rect x="1383.2" y="274.2" class="st25" width="239.3" height="74"/>
 	<text transform="matrix(1 0 0 1 1404.8945 291.4468)" class="st16 st22 st30">SITE-TO-SITE VPN</text>
-	<rect x="1375.9" y="598.4" class="st24" width="246.6" height="90"/>
+	<rect x="1375.9" y="598.4" class="st25" width="246.6" height="90"/>
 	<text transform="matrix(1 0 0 1 1412.334 615.6445)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">REMOTE-ACCESS </tspan><tspan x="161" y="28.8" class="st18 st22 st30">VPN</tspan></text>
-	<rect x="1382.5" y="746.5" class="st24" width="240" height="54"/>
+	<rect x="1382.5" y="746.5" class="st25" width="240" height="54"/>
 	<text transform="matrix(1 0 0 1 1449.0537 763.7793)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">WEB CONTENT </tspan><tspan x="55" y="28.8" class="st18 st22 st30">SECURITY</tspan></text>
-	<rect x="1405.5" y="425.5" class="st24" width="218" height="60"/>
+	<rect x="1405.5" y="425.5" class="st25" width="218" height="60"/>
 	<text transform="matrix(1 0 0 1 1431.334 442.7798)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">SECURE MOBILE </tspan><tspan x="8.2" y="28.8" class="st18 st22 st30">USER SUPPORT </tspan></text>
 	<rect x="293.9" y="258.6" class="st28" width="253.5" height="61.5"/>
 	<text transform="matrix(1 0 0 1 293.8892 275.8862)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">AUTOMATED </tspan><tspan x="0" y="28.8" class="st18 st22 st30">SERVICE CREATION</tspan></text>
@@ -1060,7 +1060,7 @@
 	<text transform="matrix(1 0 0 1 293.8892 614.4717)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">ENTERPRISE GRADE </tspan><tspan x="0" y="28.8" class="st18 st22 st30">SECURITY</tspan></text>
 	<rect x="293.9" y="749" class="st28" width="260" height="72"/>
 	<text transform="matrix(1 0 0 1 293.8892 766.3027)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">REAL TIME MALWARE </tspan><tspan x="0" y="28.8" class="st18 st22 st30">SCANNING</tspan></text>
-	<rect x="293.9" y="432" class="st24" width="259" height="78"/>
+	<rect x="293.9" y="432" class="st25" width="259" height="78"/>
 	<text transform="matrix(1 0 0 1 293.8892 449.3062)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">ADVANCED </tspan><tspan x="0" y="28.8" class="st18 st22 st30">MALWARE  </tspan><tspan x="0" y="57.6" class="st18 st22 st30">PROTECTION</tspan></text>
 	<rect x="293.9" y="104.6" class="st28" width="243" height="60"/>
 	<text transform="matrix(1 0 0 1 293.8892 121.8921)" class="st23"><tspan x="0" y="0" class="st18 st22 st30">CUSTOMER SELF </tspan><tspan x="0" y="28.8" class="st18 st22 st30">SERVICE PORTAL</tspan></text>
